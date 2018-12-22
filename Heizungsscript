@@ -86,7 +86,7 @@
 //.............................UserExit finalisiert
 //.............................Manuelle Temperaturen und SoftBoost gehen nach Programmstop nicht mehr verloren
 //.............................Manuelle Temperaturen: Korrekturen im View jetzt mehrfach möglich
-//
+//.............................Umstellung auf Github
 //
 // eventuelle Erweiterungen für zukünftige Versionen
 //.............................Abwesenheit je Raum (Absenkung fuer einzelne Räume bei Abwesenheit zugeordneter Namen)
